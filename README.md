@@ -1,3 +1,3 @@
-# problems-on-trains
+# Problems on Trains
 
 * SE-005
