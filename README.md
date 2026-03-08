@@ -1,3 +1,1 @@
-# Problems on Trains
-
-* SE-005
+* [SE-005](SE-005.md)
